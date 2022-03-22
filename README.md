@@ -1,1 +1,3 @@
-# CFG_homework
+# CFG homework
+
+## homeworks for the CFG Nanodegree
